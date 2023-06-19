@@ -1,8 +1,0 @@
-
-Изменения:
-
-1.1
-
-- Добавлены параметры minProducts, targetActiveClass и jsScript (см. документацию).
-
-- Добавлены callback-функции: cmpOnToCompareAdded, cmpOnToCompareRemoved.
